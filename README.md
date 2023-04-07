@@ -1,7 +1,7 @@
 ### 
 ![version :01.21.2023](https://img.shields.io/badge/version-21.01.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=hotcappuchino&color=red)&nbsp;
-[![GitHub hotcappuchino](https://img.shields.io/github/followers/hotcappuchino?label=follow&style=social)](https://github.com/daiji-hazimoto)&nbsp;
+[![GitHub hotcappuchino](https://img.shields.io/github/followers/daiji-hazimoto?label=follow&style=social)](https://github.com/daiji-hazimoto)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 
 ## 🛠️ My Skills
