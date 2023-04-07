@@ -53,5 +53,3 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=hotcappuchino&column=7)](https://github-profile-trophy.vercel.app/?username=angelsoft-hotcappuchino&column=7)
